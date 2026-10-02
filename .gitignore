@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+
+# Downloads & Media
+downloads/
+*.zip
+*.tar.gz
+
+# System / IDE
+.DS_Store
+.vscode/
+.idea/
+.env
+.env.local
